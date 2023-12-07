@@ -1,0 +1,42 @@
+/* FilmsPage.css */
+.FilmPages {
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 28px;
+    color: #333;
+  }
+  
+  .form-group {
+    margin-top: 20px;
+  }
+  
+  .label {
+    font-size: 18px;
+  }
+  
+  .select {
+    font-size: 16px;
+    padding: 5px;
+  }
+  
+  .MovieList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .film-item {
+    margin: 10px 0;
+  }
+  
+  .unique-directors {
+    margin-top: 20px;
+  }
+  
+  .director {
+    font-weight: bold;
+    margin-right: 5px;
+  }
